@@ -54,8 +54,8 @@ node index.js
 
 ## Logs
 
-- Successful transactions â†’ `success.log`
-- Failed transactions â†’ `error.log`
+- Successful transactions  `success.log`
+- Failed transactions  `error.log`
 
 ---
 
