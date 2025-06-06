@@ -1,0 +1,6 @@
+.env
+node_modules/
+success.log
+error.log
+out.log
+
